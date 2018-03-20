@@ -3,10 +3,12 @@ In order to run and develop on this project, you need Visual Studio to be instal
 Furthermore, you have to install this Expansion for it:
 - [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017)
 
-To open your MDF fiel in SSMS, DELETE the log file it created after you ran update-database,
+Logins for the different types of users:
+Admin: admin@admin.dk // Pass123!
+Teacher: teacher@teacher.dk // Pass123!
+Student: student@student.dk // Pass123!
 
-then make a new query in ssms
-
+To open your MDF file in SSMS, DELETE the log file it created after you ran update-database, then make a new query in SSMS
 
 CAUTION!!!! MAKE SURE YOU HAE ENOUGH RIGHTS TO ENTER THIS FOLDER  
 
