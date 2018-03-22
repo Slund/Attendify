@@ -3,9 +3,15 @@ A school project on BAAA Web Development. A attendance system for schools allowi
 Visual Studios with LocalDB is required in order to run the project.
 
 Logins for the different types of users:
-Admin: admin@admin.dk // Pass123!
-Teacher: teacher@teacher.dk // Pass123!
-Student: student@student.dk // Pass123!
+
+Admin Login:
+admin@admin.dk // Pass123!
+
+Teacher Login:
+teacher@teacher.dk // Pass123!
+
+Student Login:
+student@student.dk // Pass123!
 
 Furthermore, it uses this expansion for compiling SASS:
 - [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017)
