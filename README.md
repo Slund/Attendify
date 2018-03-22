@@ -1,6 +1,7 @@
-A school project on BAAA Web Development. A attendance system for schools allowing students to check-in to lectures and the teachers to monitor their attendance.
+A school project on BAAA Web Development, developed by Thorben, Patrick, Bob & Søren. A attendance system for schools allowing students to check-in to lectures and the teachers to monitor their attendance.
 
 Visual Studios with LocalDB is required in order to run the project.
+Download or clone, build and run!
 
 Logins for the different types of users:
 
